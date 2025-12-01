@@ -1,3 +1,8 @@
+Simple Go Gin Starter include :
+- JWT Auth
+- Postgres Database
+- Swagger
+
 ### Flow Logic Pattern :
 Router → Handler
 Handler → Repository → Database
